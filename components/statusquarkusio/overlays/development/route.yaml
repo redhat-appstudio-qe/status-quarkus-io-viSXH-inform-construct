@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: statusquarkusio
     app.kubernetes.io/part-of: status-quarkus-io
-  name: statusquarkusiocxa2
+  name: statusquarkusioreoy
 spec:
   path: /
   port:
